@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+backend/out/
+*.class
+*.log
+.env
+.env.*
+!.env.example
+node_modules/
+tmp/
